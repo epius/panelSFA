@@ -4,7 +4,7 @@ To be updated...
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+To be updated...
 
 ### Prerequisites
 
@@ -21,5 +21,5 @@ To be updated...
 
 ## Author
 
-* **Bowen Chen** - *Initial work* - [PurpleBooth](https://https://github.com/cbw1243)
+* **Bowen Chen** - *Initial work* - [GitHub account](https://https://github.com/cbw1243)
 
